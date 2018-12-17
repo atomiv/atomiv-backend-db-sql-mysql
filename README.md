@@ -1,2 +1,2 @@
-# atomiv-backend-sql-mysql
-Atomiv - Backend (SQL - MySQL)
+# atomiv-backend-db-sql-mysql
+Atomiv - Backend (DB - SQL - MySQL)
